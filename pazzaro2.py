@@ -19,3 +19,4 @@ while True:
 
     pygame.display.update()
 #Ta tudo errado se é muito burro fi
+#Burro 3x Mais
